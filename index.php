@@ -7,6 +7,7 @@
 	<p><?php
  $saida = "";
  $Saida = "";
+ 
  if(1 == 0){
 	 /*echo "Verdadeiro"; Comentário de Bloco (mais de uma linha)*/
 	 $saida = "Verdadeiro";
